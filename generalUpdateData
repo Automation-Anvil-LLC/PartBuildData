@@ -1,6 +1,6 @@
-versionMajor:0,
-versionMinor:9,
-versionPatch:0,
-partBuildModeT:true,
-youtube:http://Youtube.com,
-homeSite:https://translate.google.com/?sl=ja&tl=en&op=translate&hl=en
+versionMajor::0,
+versionMinor::9,
+versionPatch::0,
+partBuildModeT::true,
+youtube::http://Youtube.com,
+homeSite::https://translate.google.com/?sl=ja&tl=en&op=translate&hl=en
